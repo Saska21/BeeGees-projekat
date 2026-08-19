@@ -1,6 +1,6 @@
 # BeeGees BFT Simulator
 
-Implementacija i simulacija **BeeGees** konsenzus algoritma 
+Implementacija i simulacija **BeeGees** konsenzus algoritma. 
 Simulator modeluje mrežu od 4 nezavisna čvora (procesa), gde je svaki čvor zasebna Go goroutine koja komunicira isključivo razmenom poruka preko simulirane, nepouzdane mreže (FairLoss → Stubborn → Perfect Link). 
 Podržana su tri scenarija izvršavanja: normalan rad, čvor koji ćuti (crash/silent) i vizantijski (zlonameran) lider koji šalje konfliktne predloge.
 
