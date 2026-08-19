@@ -13,15 +13,8 @@ Podržana su tri scenarija izvršavanja: normalan rad, čvor koji ćuti (crash/s
 
 ### 1. Preuzmi projekat
 
-Opcija A — kloniranje preko Git-a:
-
-```bash
-git clone <URL-tvog-repozitorijuma>
-```
-
-Opcija B — bez Git-a, direktno sa GitHub-a: na stranici repozitorijuma klikni zeleno dugme **"Code" → "Download ZIP"**, pa raspakuj preuzeti fajl.
-
-Bilo kojim putem, na kraju na svom računaru treba da dobiješ folder **BeeGees-projekat-main** koji sadrži foldere **`go-distributed-algorithms-main` i go-distributed-algorithms-unapredjenje** — otvori jedan od njih u editoru (npr. VS Code).
+Direktno sa GitHub-a: na stranici repozitorijuma klikni zeleno dugme **"Code" → "Download ZIP"**, pa raspakuj preuzeti fajl.
+Na kraju na svom računaru treba da dobiješ folder **BeeGees-projekat-main** koji sadrži foldere **`go-distributed-algorithms-main` i go-distributed-algorithms-unapredjenje** — otvori jedan od njih u editoru (npr. VS Code).
 
 ### 2. Podesi scenario u `main.go`
 
