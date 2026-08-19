@@ -73,7 +73,6 @@ Simulacija se pokreće direktno u terminalu i ispisuje hronološki tok događaja
 | `ABORT: Otkriven dokaz o prevari!` | Equivokacija je pronađena — blok se NE komituje |
 | `Lider ... je BLACKLISTOVAN` | Otkriveni vizantijski lider je trajno isključen iz rotacije budućih lidera |
 
-Na kraju simulacije ispisuje se i sumarna statistika mrežnih događaja (broj poslatih, primljenih, izgubljenih i retransmitovanih poruka).
 
 ## (Opciono) Podešavanje parametara simulacije
 
